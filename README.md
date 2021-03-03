@@ -193,7 +193,7 @@ The installation of CUDA + cuDNN is not part of the install
 process, because:
 - I don't have access to a computer with a NVIDIA graphic card.
 - From my understanding, in order to download cuDNN, you must register
-  for the NVIDIA Developer Program, wich would be quite hard to
+  for the NVIDIA Developer Program, which would be quite hard to
   script / impossible ?
 - Managing multiple CUDA versions on the same computer, if the need
   arises, sounds like a pain.
